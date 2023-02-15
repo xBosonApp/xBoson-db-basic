@@ -1,0 +1,9 @@
+.svn/*
+.streams/**
+.DS_store
+._.DS_Store
+*.7z
+*.zip
+
+api-bak
+mongo-bak

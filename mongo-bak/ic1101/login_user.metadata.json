@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ic1101.login_user"},{"v":2,"key":{"_fts":"text","_ftsx":1},"name":"_id_text_weixin_text_tel_text_email_text","ns":"ic1101.login_user","weights":{"_id":1,"email":1,"tel":1,"weixin":1},"default_language":"english","language_override":"language","textIndexVersion":3}],"uuid":"635594c82b1f47248add78914aa738e9"}

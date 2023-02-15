@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ic1101.dev-proto"},{"v":2,"key":{"_fts":"text","_ftsx":1},"name":"_id_text_desc_text","ns":"ic1101.dev-proto","weights":{"_id":1,"desc":1},"default_language":"english","language_override":"language","textIndexVersion":3}],"uuid":"7d6071a10f38441eb9cf7615ed055dab"}

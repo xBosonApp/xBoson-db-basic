@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"xboson.disk.chunks"},{"v":2,"unique":true,"key":{"files_id":1,"n":1},"name":"files_id_1_n_1","ns":"xboson.disk.chunks"}],"uuid":"b55b85a751e44d5d9f7ab1785bbb8f71"}
